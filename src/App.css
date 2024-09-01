@@ -5,3 +5,7 @@
 .gallery{
   padding: 20px;
 }
+
+.gallery img{
+  border-radius: 10px;
+}
